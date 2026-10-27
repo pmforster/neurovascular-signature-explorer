@@ -722,7 +722,7 @@
       '<b>Data.</b> Public snRNA-seq datasets: AD, GEO GSE163577 (cortex); FTD-GRN, GEO GSE163122 (frontal and temporal cortex); HD, GEO GSE173731 (neostriatum). ' +
       'All tables, gene expression summaries and UMAP coordinates on this page were generated from the final analysis objects and result tables by the script <code>scripts/19_build_explorer.R</code> of the analysis code. ' +
       'UMAPs show downsampled nuclei (random seed ' + NV.meta.seed + '); means and % expressing use all nuclei.<br>' +
-      '<b>Code.</b> The link to the analysis code repository will be added here.';
+      '<b>Code.</b> Analysis code and the builder of this page: <a href="https://github.com/illeatyoulater/neurovascular-signature-code" target="_blank" rel="noopener">github.com/illeatyoulater/neurovascular-signature-code</a>.';
   }
 
   // ===========================================================================
